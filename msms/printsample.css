@@ -1,0 +1,51 @@
+@page{
+
+    size:Letter;
+  
+margin: 10;
+
+
+}
+
+#print-btn
+{
+
+display:none;
+visibility:none;
+
+}
+
+li{
+    
+    display:none;
+    visibility:none;
+
+}
+
+a{
+    display:none;
+    visibility:none;
+}
+button{
+    display:none;
+    visibility:none;
+}
+
+
+
+.header{
+    width: 100%;
+}
+
+@media print{
+.header{
+
+    position: fixed;
+    top:0%;
+
+}
+
+}
+
+
+

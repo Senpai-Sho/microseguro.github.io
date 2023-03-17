@@ -1,0 +1,40 @@
+@page{
+
+    size:legal;
+    margin:2;
+  margin-bottom: 0;
+ 
+}
+
+#print-btn
+{
+
+display:none;
+visibility:none;
+
+}
+
+li{
+    
+    display:none;
+    visibility:none;
+
+}
+
+a{
+    display:none;
+    visibility:none;
+}
+
+#submit-btn{
+    display:none;
+    visibility:none;
+
+}
+
+
+ 
+
+
+
+    

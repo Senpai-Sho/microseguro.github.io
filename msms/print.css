@@ -1,0 +1,27 @@
+@page{
+
+    size:legal;
+
+   
+ 
+}
+
+#print-btn
+{
+
+display:none;
+visibility:none;
+
+}
+
+li{
+    
+    display:none;
+    visibility:none;
+
+}
+
+a{
+    display:none;
+    visibility:none;
+}
